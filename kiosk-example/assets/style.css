@@ -105,8 +105,8 @@ button {
 }
 
 .Loan .avatar { background-image: url('./images/lakita-avatar.jpeg'); }
-.Advice .avatar { background-image: url('./images/avatar2.jpg'); }
-.Credit .avatar { background-image: url('./images/ahauge.png'); }
+.Advice .avatar { background-image: url('./images/solo-avatar.png'); }
+.Credit .avatar { background-image: url('./images/group-avatar.jpeg'); }
 
 .back {
   position: absolute;

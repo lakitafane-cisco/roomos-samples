@@ -15,24 +15,8 @@
   x-cloak
   x-data="{ page, services, language, languages } = $store.model"
 >
-  <div class="home-screen" x-show="page === 'home'">
-    <h1>Webex Bank</h1>
-
-    <h2 @click="page = 'service'" class="touch-to-start">Touch to start</h2>
-
-    <div class="languages">
-      <template x-for="current in languages">
-        <div
-          class="language"
-          x-text="current"
-          @click="language = current"
-          :class="language === current && 'selected'"
-        ></div>
-      </template>
-    </div>
-  </div>
-
-  <div class="service" x-show="page === 'service'">
+  
+  <div class="service" x-show="true">
     <h2>Contact Front Desk</h2>
     <div class="row">
       <template x-for="service in services">

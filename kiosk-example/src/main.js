@@ -14,8 +14,8 @@ function setup() {
       }
       this.services = [
         { url: 'lfane@cisco.com', name: 'Lakita' },
-        { url: 'dansmit@cisco.com', name: 'Dan' },
-        { url: this.dialNumber, name: 'Credit' },
+        { url: 'dansmit@cisco.com', name: 'Solo' },
+        { url: this.dialNumber, name: 'Group' },
       ];
     },
     get page() {

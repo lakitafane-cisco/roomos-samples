@@ -104,9 +104,9 @@ button {
   background-size: cover;
 }
 
-.Loan .avatar { background-image: url('/roomos-samples/kiosk-example/assets/images/lakita-avatar.jpeg'); }
-.Advice .avatar { background-image: url('assets/images/solo-avatar.png'); }
-.Credit .avatar { background-image: url('assets/images/group-avatar.jpg'); }
+.Loan .avatar { background-image: url('./images/avatar1.png'); }
+.Advice .avatar { background-image: url('./images/avatar2.jpg'); }
+.Credit .avatar { background-image: url('./images/ahauge.png'); }
 
 
 .back {

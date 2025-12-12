@@ -23,7 +23,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: CiscoSansThin, arial;
-  background-image: url('./images/ey-logo.png');
+  background-image: url('./images/ciscologo.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;  /* scales logo proportionally */

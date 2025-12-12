@@ -13,8 +13,8 @@ function setup() {
         this.dialNumber = params.get('number');
       }
       this.services = [
-        { url: this.dialNumber, name: 'Loan' },
-        { url: this.dialNumber, name: 'Advice' },
+        { url: 'lfane@cisco.com', name: 'Lakita' },
+        { url: 'dansmit@cisco.com', name: 'Dan' },
         { url: this.dialNumber, name: 'Credit' },
       ];
     },

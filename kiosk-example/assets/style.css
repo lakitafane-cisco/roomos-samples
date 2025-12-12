@@ -22,13 +22,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: CiscoSansThin, arial;
-  background-image: url('./images/ciscologo.png');
-  background-position: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-image: url('./images/ey-logo.png');
+  background-position: top right;
   background-repeat: no-repeat;
-  background-size: contain;  /* scales logo proportionally */
-  background-color: #007481;
-  color: white;
+  background-size: 120px auto;  /* scales logo proportionally */
+  background-color: #f2f2f2;
+  color: #333333;
   font-size: 36px;
 }
 

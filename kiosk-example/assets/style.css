@@ -104,9 +104,9 @@ button {
   background-size: cover;
 }
 
-.Loan .avatar { background-image: url('./images/lakita-avatar.jpeg'); }
-.Advice .avatar { background-image: url('./images/solo-avatar.png'); }
-.Credit .avatar { background-image: url('./images/group-avatar.jpeg'); }
+.Loan .avatar { background-image: url('/images/lakita-avatar.jpeg'); }
+.Advice .avatar { background-image: url('/images/solo-avatar.png'); }
+.Credit .avatar { background-image: url('/images/group-avatar.jpg'); }
 
 .back {
   position: absolute;

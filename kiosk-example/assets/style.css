@@ -26,7 +26,7 @@ body {
   background-image: url('./images/ey-logo.png');
   background-position: top left;
   background-repeat: no-repeat;
-  background-size: 200px auto;  /* scales logo proportionally */
+  background-size: 400px auto;  /* scales logo proportionally */
   background-color: #f2f2f2;
   color: #333333;
   font-size: 36px;

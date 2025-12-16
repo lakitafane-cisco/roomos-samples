@@ -14,7 +14,7 @@ function setup() {
       }
       this.services = [
         { url: 'lfane@cisco.com', name: 'Lakita' },
-        { url: 'mark.vanderberg@ey.com', name: 'Solo' },
+        { url: 'lakitafane+eymv@gmail.com', name: 'Solo' },
         { url: '7000', name: 'Group' },
       ];
     },
